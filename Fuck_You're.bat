@@ -1,2 +1,2 @@
 ECHO Fuck You're
-freeze
+pause
